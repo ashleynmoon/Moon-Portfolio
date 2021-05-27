@@ -83,6 +83,12 @@ img.mountain-pic{
   height: auto;
 }
 
+.icons a {
+  font-size: 32px;
+  text-decoration: none;
+  color: #272142;
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
