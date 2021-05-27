@@ -89,6 +89,18 @@ img.mountain-pic{
   color: #272142;
 }
 
+.footer {
+  background: #fde5c4;
+  padding: 20px;
+}
+
+.footer-icons a {
+  color: #272142;
+  font-size: 60px;
+  padding: 15px;
+  text-decoration: none;
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
