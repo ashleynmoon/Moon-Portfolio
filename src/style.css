@@ -6,6 +6,7 @@
 }
 
 body {
+  //background: linear-gradient(#333d4f, #3c3f44 30%, #1c858e 40%, #c76c19 50%, #d9814f 60%, #94483b 70%, #745a5d);
   font-family: var(--default-font-family);
 }
 
@@ -31,7 +32,6 @@ p {
 }
 
 .hero {
-  background: var(--secondary-color);
   text-align: center;
   padding: 160px 20px;
 }
@@ -90,14 +90,14 @@ img.mountain-pic{
 }
 
 .footer {
-  background: #fde5c4;
-  padding: 15px;
+  background:#fde5c4;
+  padding: 10px;
 }
 
 .footer-icons a {
-  color: #272142;
-  font-size: 60px;
-  padding: 15px;
+  color: #765d69;
+  font-size: 48px;
+  padding: 10px;
   text-decoration: none;
 }
 
