@@ -2,11 +2,10 @@
   --branding-color: #6c63ff;
   --secondary-color: white;
   --heading-font-family: "Playfair Display", serif;
-  --default-font-family: font-family: 'Montserrat', sans-serif;
+  --default-font-family: "Montserrat", sans-serif;
 }
 
 body {
-  //background: linear-gradient(#333d4f, #3c3f44 30%, #1c858e 40%, #c76c19 50%, #d9814f 60%, #94483b 70%, #745a5d);
   font-family: var(--default-font-family);
 }
 
@@ -72,12 +71,12 @@ p {
   padding: 120px 60px;
 }
 
-.about-me{
+.about-me {
   font-size: 60px;
   text-align: center;
 }
 
-img.mountain-pic{
+img.mountain-pic {
   border-radius: 40px;
   max-width: 100%;
   height: auto;
@@ -90,7 +89,7 @@ img.mountain-pic{
 }
 
 .footer {
-  background:#fde5c4;
+  background: #fde5c4;
   padding: 10px;
 }
 
