@@ -92,14 +92,24 @@ p {
 }
 
 .about-me {
+  color: var(--secondary-color);
   font-size: 60px;
   text-align: center;
 }
 
+.bio {
+  color: var(--secondary-color);
+  font-family: var(--heading-font-family);
+  font-size: 18px;
+  font-weight: 400px;
+  text-align: center;
+}
 img.mountain-pic {
   border-radius: 40px;
   max-width: 100%;
   height: auto;
+  padding: 10px;
+  vertical-align: middle;
 }
 
 .icons a {
@@ -132,6 +142,7 @@ img.mountain-pic {
   }
 
   .about-section {
+    min-width: 550px;
     padding: 160px 20px;
   }
 
