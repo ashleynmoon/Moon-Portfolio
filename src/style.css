@@ -125,7 +125,7 @@ h2 {
   text-align: center;
 }
 
-.btn {
+.project-description a {
   display: flex;
   justify-content: center;
 }
@@ -136,6 +136,16 @@ h2 {
   color: #272142;
 }
 
+.icons-contact a {
+  font-size: 48px;
+  text-decoration: none;
+  color: #272142;
+}
+
+.contact {
+  background: white;
+  padding: 120px 60px;
+}
 .footer {
   background: #fde5c4;
   bottom: 0;
