@@ -32,7 +32,7 @@ p {
 
 .welcome {
   text-align: center;
-  padding: 120px 20px;
+  padding: 80px 20px;
 }
 
 .welcome p {
@@ -50,7 +50,7 @@ p {
 }
 
 .container {
-  padding: 160px 20px;
+  background: linear-gradient(#f9a828, #ececeb, #07617d, #2e383f);
 }
 
 .slides {
@@ -128,7 +128,7 @@ img.mountain-pic {
 
 .footer {
   background: #fde5c4;
-  padding: 10px;
+  bottom: 0;
   position: fixed;
   width: 100%;
 }
