@@ -112,6 +112,24 @@ img.mountain-pic {
   vertical-align: middle;
 }
 
+.project-description h1,
+h2 {
+  color: #66bfbf;
+}
+
+.project-description p {
+  color: #fde5c4;
+  font-family: var(--heading-font-family);
+  font-size: 22px;
+  padding: 0;
+  text-align: center;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
 .icons a {
   font-size: 32px;
   text-decoration: none;
