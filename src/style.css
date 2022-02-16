@@ -1,5 +1,5 @@
 :root {
-  --branding-color: #765d69;
+  --branding-color: #7fa99b;
   --secondary-color: white;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Montserrat", sans-serif;
@@ -41,7 +41,7 @@ p {
   font-size: 36px;
   font-weight: bold;
   margin: 0;
-  color: #272142;
+  color: #394a51;
 }
 
 .welcome h2 {
@@ -114,11 +114,11 @@ img.mountain-pic {
 
 .project-description h1,
 h2 {
-  color: #66bfbf;
+  color: #142727;
 }
 
 .project-description p {
-  color: #fde5c4;
+  color: #fdc57b;
   font-family: var(--heading-font-family);
   font-size: 22px;
   padding: 0;
@@ -133,13 +133,13 @@ h2 {
 .icons a {
   font-size: 32px;
   text-decoration: none;
-  color: #272142;
+  color: #394a51;
 }
 
 .icons-contact a {
   font-size: 48px;
   text-decoration: none;
-  color: #272142;
+  color: #394a51;
 }
 
 .contact {
@@ -147,7 +147,7 @@ h2 {
   padding: 120px 60px;
 }
 .footer {
-  background: #fde5c4;
+  background: #fdc57b;
   bottom: 0;
   position: fixed;
   width: 100%;
