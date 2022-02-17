@@ -92,23 +92,29 @@ p {
 }
 
 .about-me {
-  color: var(--secondary-color);
+  color: var(#394a51);
   font-size: 60px;
   text-align: center;
 }
 
 .bio {
-  color: var(--secondary-color);
+  color: var(#394a51);
   font-family: var(--heading-font-family);
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 400px;
   text-align: center;
 }
+
+a.marigold {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
 img.mountain-pic {
-  border-radius: 40px;
+  border-radius: 80px;
   max-width: 100%;
   height: auto;
-  padding: 10px;
+  padding: 50px;
   vertical-align: middle;
 }
 
@@ -118,7 +124,7 @@ h2 {
 }
 
 .project-description p {
-  color: #fdc57b;
+  color: white;
   font-family: var(--heading-font-family);
   font-size: 22px;
   padding: 0;
@@ -147,14 +153,14 @@ h2 {
   padding: 120px 60px;
 }
 .footer {
-  background: #fdc57b;
+  background: #fbf2d5;
   bottom: 0;
   position: fixed;
   width: 100%;
 }
 
 .footer-icons a {
-  color: #765d69;
+  color: #394a51;
   font-size: 48px;
   padding: 10px;
   text-decoration: none;
